@@ -1,4 +1,4 @@
-# persone_generator
+# Flutter-Person-Generator
 
 Person Generator
 
